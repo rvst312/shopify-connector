@@ -1,0 +1,82 @@
+[
+  {
+    "code": "140458743",
+    "name": "+8000 Camiseta interior de manga larga Gourdon",
+    "description": "Categoría:\n\nRopa de hombre.\n\nTipo de producto:\n\nCapas base.\n\nMarca:\n\n+8000 Gourdon Camiseta interior de manga larga.\n\nCamiseta de primera capa con efecto de compresión, construcción sin costuras 230 gr/m2.",
+    "description_long": "Categoría:\n\nRopa de hombre.\n\nTipo de producto:\n\nCapas base.\n\nMarca:\n\n+8000 Gourdon Camiseta interior de manga larga.\n\nCamiseta de primera capa con efecto de compresión, construcción sin costuras 230 gr/m2.",
+    "cover_url": "https://storage.googleapis.com/tradeinn-images/web/products_image/14045/fotos/140458743.webp",
+    "origin_code": "140458743",
+    "provider_id": 12569,
+    "prices": [
+      {
+        "price_incl_tax": "41.56",
+        "tax_id": 44812,
+        "pricing_tier_id": 12307
+      }
+    ],
+    "brand": {
+      "name": "+8000",
+      "code": "+8000"
+    },
+    "season": {
+      "name": "All Seasons",
+      "code": "all_seasons"
+    },
+    "category": {
+      "name": "Base layers",
+      "code": "base_layers"
+    },
+    "subcategory": {
+      "name": "Men´s clothing",
+      "code": "men´s_clothing"
+    },
+    "images": [
+      {
+        "url": "https://storage.googleapis.com/tradeinn-images/web/products_image/14045/fotos/140458743.webp",
+        "position": null
+      }
+    ],
+    "attribute_category_values": [
+      {
+        "attributecategory": {
+          "name": "Gender",
+          "type": 1
+        },
+        "value": "Male",
+        "attributes": [
+          {
+            "name": "Gender"
+          }
+        ]
+      }
+    ],
+    "cost_price": "0",
+    "manage_uids": true,
+    "manage_lots": true,
+    "discount_active": true,
+    "product_variants": [
+      {
+        "identifier_type": "sku",
+        "identifier": "141588023",
+        "sku": "141588023",
+        "barcode": "8445402403042",
+        "color_variant": {
+          "name": "Vigore Graphite",
+          "code": "vigore_graphite",
+          "variant_category": {
+            "name": "Color",
+            "code": "color"
+          }
+        },
+        "size_variant": {
+          "name": "L",
+          "code": "l",
+          "variant_category": {
+            "name": "Size",
+            "code": "size"
+          }
+        }
+      }
+    ]
+  }
+]

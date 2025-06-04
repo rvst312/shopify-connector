@@ -1,0 +1,30 @@
+{
+  "name": "api-gosporting-stock-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@bull-board/api": "^6.7.10",
+    "@bull-board/express": "^6.7.10",
+    "@shopify/shopify-api": "^11.11.1",
+    "axios": "^1.8.4",
+    "bull": "^4.16.5",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1",
+    "shopify-api-node": "^3.14.2",
+    "winston": "^3.17.0"
+  }
+}
